@@ -17,6 +17,7 @@ The noun within the cmdlet is “Variable”
 Task 3
 Multiple two Int variables together
 PowerShell can perform basic maths operators, such as “+”, “-“ and “*”
+
 ![imagen](https://github.com/R4F31/EjercicioDeClase3/blob/main/VariableAndComparisionOperators/3.PNG)
 
 
